@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1664104935 source:d:\courses\new folder\complex\main.c
+	<stdio.h>
+	"complex.h"
+
+1664104932 d:\courses\new folder\complex\complex.h
+
+1664107541 source:d:\courses\new folder\complex\complex.c
+	<stdio.h>
+	<assert.h>
+	"complex.h"
+
