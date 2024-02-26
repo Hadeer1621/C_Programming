@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668899967 source:c:\users\eng hadeer\onedrive\desktop\study_me\new folder\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1668899225 c:\users\eng hadeer\onedrive\desktop\study_me\new folder\queue\queue.h
+
+1668899016 source:c:\users\eng hadeer\onedrive\desktop\study_me\new folder\queue\queue.c
+	"Queue.h"
+
