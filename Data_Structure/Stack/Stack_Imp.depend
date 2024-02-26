@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668995358 source:c:\users\eng hadeer\onedrive\desktop\study_me\new folder\stack_imp\stack.c
+	"Stack.h"
+
+1668995366 c:\users\eng hadeer\onedrive\desktop\study_me\new folder\stack_imp\stack.h
+
+1668995691 source:c:\users\eng hadeer\onedrive\desktop\study_me\new folder\stack_imp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
